@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+# Python environments
+.venv/
+
+# IDE settings
+.idea/
+
+# Pytest cache
+.pytest_cache/
+
+# Python bytecode files
+__pycache__/

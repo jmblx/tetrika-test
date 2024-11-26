@@ -9,3 +9,7 @@ pip install .
 ```bash
 pip install -e ".[dev]"
 ```
+### Запустить Pytest из корня проекта:
+```bash
+pytest .
+```

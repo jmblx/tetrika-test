@@ -23,7 +23,7 @@ test = [
 ]
 
 [tool.pytest.ini_options]
-testpaths = ["tests"]
+testpaths = ["task1/solution/tests", "task2/solution/tests", "task3/solution/tests"]
 python_files = ["test_*.py"]
 asyncio_mode = "auto"
 

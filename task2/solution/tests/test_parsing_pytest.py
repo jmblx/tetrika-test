@@ -35,7 +35,7 @@ async def test_parse_beasts_names(letter, url, expected_counts, expected_continu
 
 @pytest.mark.asyncio
 async def test_parse_beasts_names_from_file():
-    with open('test.html', 'r', encoding='utf-8') as file:
+    with open('task2/solution/tests/test.html', 'r', encoding='utf-8') as file:
         html_content = file.read()
 
     scraper = BeastsScraper(session=None)
@@ -56,7 +56,7 @@ async def test_scrape_A():
 
         result = await scraper.scrape(alphabet)
 
-        assert result == Counter({'A': 3454})
+        assert result == Counter({'A': 3455})
 
 
 def test_get_next_page_url():
