@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "testovoe"
+version = "0.1.0"
+description = "Test task in Tetrika"
+authors = [
+    { name = "Egor", email = "zhora.zhilin.06@mail.ru" }
+]
+requires-python = ">=3.11.1"
+dependencies = [
+    "bs4==0.0.2",
+    "aiohttp==3.11.7",
+    "lxml"
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest==8.3.3",
+    "pytest-asyncio==0.24.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+asyncio_mode = "auto"
+
+[tool.setuptools.packages.find]
+include = ["task1", "task2", "task3"]
