@@ -21,35 +21,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2pNlrUMjcRz7uf5kn4DpsgSXGlG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python tests.pytest for test_strict_pytest.test_sum_two_valid.executor": "Run",
-    "Python tests.pytest in test_appearance_manual.py.executor": "Run",
-    "Python tests.pytest in test_appearance_pytest.py.executor": "Run",
-    "Python tests.pytest in test_parsing_pytest.py.executor": "Run",
-    "Python.strict_decorator.executor": "Run",
-    "Python.wiki_parsing.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/vs/testovoe",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.pytest for test_strict_pytest.test_sum_two_valid.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_appearance_manual.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_appearance_pytest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_parsing_pytest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strict_decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wiki_parsing.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/vs/testovoe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="pytest for test_strict_pytest.test_sum_two_valid" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="testovoe" />
